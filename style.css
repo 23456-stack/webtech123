@@ -1,12 +1,38 @@
-<!DOCTYPE html>
-<html lang = "en">
-<head>
-< meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> Document </title>
-<link rel="stylesheet" href="./style.css"/>
-</head>
-<body>
-<h1> My first Heroku Deployment </h1>
-</body>
-</html>
+*{
+	margin : 0;
+	padding : 0;
+}
+body
+{
+	font-family: sans-serif;
+}
+#nav-bar
+{
+	position: sticky;
+	top:0;
+	z-index:10;
+}
+.navbar
+{
+	background-image: linear-gradient(to right, black, black);
+	padding: 0 ! important; 
+}
+.navbar-brand img
+{
+	height:40px;
+	padding-left: 20px;
+}
+.navbar-nav li
+{
+	padding: 0 10px;
+}
+.navbar-nav li a
+{
+	color: #fff !important;
+	font-weight: 600;
+}
+.fa-bars
+{
+	color:#fff;
+	font-size: 30px !important;
+}
