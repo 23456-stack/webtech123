@@ -6,6 +6,8 @@ body
 {
 	font-family: sans-serif;
 }
+
+/*************nav bar*************/
 #nav-bar
 {
 	position: sticky;
@@ -32,7 +34,7 @@ body
 	font-weight: 600;
 }
 
-
+/*************first image*************/
 .backimage{
 	background-image: url("images/12.jpg");
 	background-size: 100% 100%
@@ -41,7 +43,7 @@ body
 	height: 600px;
 }
 
-
+/*************header-set*************/
 .headerset {
 	padding-top: 200px;
 	box-sizing: border-box;
@@ -55,6 +57,7 @@ font-size:45px;
 font-size:60px;
 }
 
+/*************contact*************/
 #contact-us p
 {
     font-size: 20px;
@@ -63,7 +66,7 @@ font-size:60px;
   }
 
 
-
+/*************social media*************/
 #social-media p
 {
     font-size: 36px;
@@ -82,7 +85,7 @@ font-size:60px;
 }
 
 
-
+/*************footer img*************/
   .footer-img
   {
   	width: 100%;
