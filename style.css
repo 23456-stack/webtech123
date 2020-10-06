@@ -60,7 +60,6 @@ font-size:60px;
 
 #social-media
 {
-	background: #f8f8fa;
 	padding: 100px 0;
 }
 #social-media p
@@ -79,3 +78,25 @@ font-size:60px;
 {
 	transform: translateY(-10px);
 }
+
+
+#contact-us
+{
+	
+	padding: 100px 0;
+}
+#contact-us p
+{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+
+  #footer
+  {
+  	color:#fff;
+  }
+  .footer-img
+  {
+  	width: 100%;
+  }
