@@ -63,7 +63,7 @@ font-size:60px;
 {
     font-size: 36px;
     font-weight: 600;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
    
 }
 .social-icons img
@@ -76,11 +76,7 @@ font-size:60px;
 	transform: translateY(-10px);
 }
 .social-media
-{
 
-	width: 1360px;
-	height: 200px;
-}
 
 /*************footer img*************/
   .footer-img
