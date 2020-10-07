@@ -57,6 +57,14 @@ font-size:45px;
 font-size:60px;
 }
 
+/****************contact***************/
+.contact-us
+{
+	background-size: 100% 100%
+	background-attachment: fixed;
+	width: 1360px;
+	height: 200px;
+}
 
 /*************social media*************/
 #social-media p
@@ -75,7 +83,13 @@ font-size:60px;
 {
 	transform: translateY(-10px);
 }
-
+.social-media
+{
+	background-size: 100% 100%
+	background-attachment: fixed;
+	width: 1360px;
+	height: 200px;
+}
 
 /*************footer img*************/
   .footer-img
