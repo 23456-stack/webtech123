@@ -6,6 +6,15 @@ body
 {
 	font-family: sans-serif;
 }
+/**************header****************/
+.header
+{
+	font-size: 30px;
+	font-weight: 50px;
+}
+
+
+
 
 /*************nav bar*************/
 #nav-bar
@@ -78,8 +87,7 @@ font-size:60px;
 .social-media
 
 
-/*************footer img*************/
- 
- 
- 
-
+ .footer-img
+  {
+  	width: 70%;
+  }
