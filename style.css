@@ -35,21 +35,8 @@
 	width: 100%;
 	height: 600px;
 }
-/*******************headerset***************/
-.headerset {
-	padding-top: 100px;
-	box-sizing: border-box;
-}
-.headerset h2
-{
-font-size:45px;
-}
-.headerset h1
-{
-font-size:60px;
-}
 
-/*******************contatc ***************/
+/*******************contatct ***************/
 #Contact
 {
 	background: #efefef;
