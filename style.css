@@ -36,39 +36,22 @@
 	height: 600px;
 }
 
-/*******************contatct ***************/
-#Contact
+/*************social media*************/
+#social-media p
 {
-	background: #efefef;
-	padding-top: 40px;
-	padding-bottom: 40px;
-	color: #777;
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 50px;
+   
 }
-.conatct-form
+.social-icons img
 {
-	padding: 20px;
-
+	width:60px;
+	transition: 0.5s;
 }
-.form-control
+.social-icons a:hover img
 {
-	border-radius: 0!important;
-	border: none!important;
-}
-::placeholder
-{
-	color : #999!important;
-}
-.follow
-{
-	background : #fff;
-	padding: 10px;
-	margin: 15px;
-}
-/*******************customer support ***************/
-.customer-support
-{
-padding: 10px;
-	margin: 15px;	
+	transform: translateY(-10px);
 }
 
 /*******************footer***************/
